@@ -1,0 +1,7 @@
+/target
+out
+target
+.vercel
+/certs/*
+build
+node_modules/*
